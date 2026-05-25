@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "929317894873",
+    "firebase_url": "https://spotmancing-pab2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spotmancing-pab2",
+    "storage_bucket": "spotmancing-pab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929317894873:android:1b907e161161aebce99cc8",
+        "android_client_info": {
+          "package_name": "com.example.spotmancing_pab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOC24i4H_r5AAsl4W68aGpmNGR4mioXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
