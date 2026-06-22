@@ -1,9 +1,9 @@
 // Noval
 import 'package:flutter/material.dart';
 import 'dart:convert';
-import 'package:spotmancing_uas_pab2/services/firebase_service.dart';
-import 'package:spotmancing_uas_pab2/models/spot_model.dart';
-import 'package:spotmancing_uas_pab2/screens/detail_screen.dart';
+import 'package:spotmancing_pab2/services/firebase_service.dart';
+import 'package:spotmancing_pab2/models/spot_model.dart';
+import 'package:spotmancing_pab2/screens/detail_screen.dart';
 
 class FavoriteScreen extends StatelessWidget {
   const FavoriteScreen({super.key});

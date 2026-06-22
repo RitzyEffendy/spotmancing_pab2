@@ -3,8 +3,8 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:image_picker/image_picker.dart';
-import 'package:spotmancing_uas_pab2/screens/login_screen.dart';
-import 'package:spotmancing_uas_pab2/services/firebase_service.dart';
+import 'package:spotmancing_pab2/screens/login_screen.dart';
+import 'package:spotmancing_pab2/services/firebase_service.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class ProfileScreen extends StatefulWidget {

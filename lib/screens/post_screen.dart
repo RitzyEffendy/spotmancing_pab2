@@ -4,8 +4,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:spotmancing_uas_pab2/models/spot_model.dart';
-import 'package:spotmancing_uas_pab2/services/firebase_service.dart';
+import 'package:spotmancing_pab2/models/spot_model.dart';
+import 'package:spotmancing_pab2/services/firebase_service.dart';
 
 class PostScreen extends StatefulWidget {
   const PostScreen({super.key});

@@ -1,9 +1,9 @@
 // Darma
 import 'package:flutter/material.dart';
-import 'package:spotmancing_uas_pab2/screens/home_screen.dart';
-import 'package:spotmancing_uas_pab2/screens/favorite_screen.dart';
-import 'package:spotmancing_uas_pab2/screens/post_screen.dart';
-import 'package:spotmancing_uas_pab2/screens/profile_screen.dart';
+import 'package:spotmancing_pab2/screens/home_screen.dart';
+import 'package:spotmancing_pab2/screens/favorite_screen.dart';
+import 'package:spotmancing_pab2/screens/post_screen.dart';
+import 'package:spotmancing_pab2/screens/profile_screen.dart';
 
 class MainNavigation extends StatefulWidget {
   final String username;

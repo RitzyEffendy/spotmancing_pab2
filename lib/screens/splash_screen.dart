@@ -1,9 +1,9 @@
 // Marcell
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:spotmancing_uas_pab2/screens/login_screen.dart';
+import 'package:spotmancing_pab2/screens/login_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:spotmancing_uas_pab2/screens/main_navigation.dart';
+import 'package:spotmancing_pab2/screens/main_navigation.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
