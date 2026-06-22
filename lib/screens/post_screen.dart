@@ -61,7 +61,11 @@ class _PostScreenState extends State<PostScreen> {
     }
 
     if (permission == LocationPermission.whileInUse || permission == LocationPermission.always) {
-      Position position = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+      Position position = await Geolocator.getCurrentPosition(
+        locationSettings: const LocationSettings(
+          accuracy: LocationAccuracy.high,
+        ),
+      );
       setState(() {
         _latitude = position.latitude;
         _longitude = position.longitude;

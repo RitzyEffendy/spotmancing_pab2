@@ -3,8 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:convert';
 import 'package:spotmancing_pab2/models/spot_model.dart';
-import 'dart:io';
-import 'package:flutter/foundation.dart';
 import 'package:spotmancing_pab2/models/comment_model.dart';
 
 class FirebaseService {
